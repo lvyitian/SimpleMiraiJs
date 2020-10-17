@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Mozilla Rhino
+Bundle-SymbolicName: org.mozilla.rhino
+Export-Package: org.mozilla.javascript,org.mozilla.javascript.ast,org.
+ mozilla.javascript.annotations
+Implementation-Version: 1.7.13
+Bundle-Version: 1.7.13
+Built-Date: 2020-09-02
+Bundle-ManifestVersion: 2
+Implementation-URL: http://www.mozilla.org/rhino
+Main-Class: org.mozilla.javascript.tools.shell.Main
+Implementation-Vendor: Mozilla Foundation
+Built-Time: 10:10:57
+
